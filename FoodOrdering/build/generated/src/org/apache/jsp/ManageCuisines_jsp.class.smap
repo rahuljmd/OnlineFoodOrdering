@@ -1,0 +1,20 @@
+SMAP
+ManageCuisines_jsp.java
+JSP
+*S JSP
+*F
++ 0 ManageCuisines.jsp
+ManageCuisines.jsp
++ 1 AdminHead.jsp
+AdminHead.jsp
++ 2 AdminHeader.jsp
+AdminHeader.jsp
+*L
+5,7:50
+1#1,8:57
+11#0,4:65
+15,8:70
+22,103:78
+1#2,13:181
+124#0,41:194
+*E

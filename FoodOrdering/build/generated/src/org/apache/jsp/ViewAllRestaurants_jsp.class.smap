@@ -1,0 +1,22 @@
+SMAP
+ViewAllRestaurants_jsp.java
+JSP
+*S JSP
+*F
++ 0 ViewAllRestaurants.jsp
+ViewAllRestaurants.jsp
++ 1 header.jsp
+header.jsp
++ 2 menubar.jsp
+menubar.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5,10:51
+1#1,14:61
+14#0,33:75
+1#2,42:108
+46#0,56:150
+1#3,96:206
+101#0,6:302
+*E

@@ -1,0 +1,20 @@
+SMAP
+StandardRestaurantPage_jsp.java
+JSP
+*S JSP
+*F
++ 0 StandardRestaurantPage.jsp
+StandardRestaurantPage.jsp
++ 1 RestaurantHeader1.jsp
+RestaurantHeader1.jsp
++ 2 RestaurantHeader.jsp
+RestaurantHeader.jsp
+*L
+5,7:50
+12,7:58
+18,3:65
+1#1,3:68
+20#0,5:71
+1#2,14:76
+24#0,9:90
+*E

@@ -1,0 +1,34 @@
+SMAP
+ViewCategories_jsp.java
+JSP
+*S JSP
+*F
++ 0 ViewCategories.jsp
+ViewCategories.jsp
++ 1 header.jsp
+header.jsp
++ 2 menubar.jsp
+menubar.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+5,12:53
+1#1,14:65
+16#0,17:79
+1#2,42:96
+32#0,32:138
+64,10:171
+73:181
+74,2:182,3
+76,4:188
+80,6:193
+85,3:199
+88,2:202,3
+90,2:208
+92:210,5
+93,4:215
+97,6:220
+102,4:226
+1#3,96:230
+105#0,6:326
+*E
